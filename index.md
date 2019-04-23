@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Hello It's Me - Agent Mindfull
+### I designed PublicUs, so watch out.
 
-I'm glad you are here. I plan to talk about ...
+I might shoot you.
